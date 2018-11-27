@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "549365580743",
+    "firebase_url": "https://mlqrscan.firebaseio.com",
+    "project_id": "mlqrscan",
+    "storage_bucket": "mlqrscan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549365580743:android:ccca459296d80fc2",
+        "android_client_info": {
+          "package_name": "com.my.mlqrscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549365580743-lla68vd1td7ft5fghrpb3d8ou1hbkplv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.mlqrscan",
+            "certificate_hash": "0b14f160d7c7f58acee9015248255e8270dd6b0f"
+          }
+        },
+        {
+          "client_id": "549365580743-d51ctl6k75kepjpn9ih9sar3bmh89jf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQLBEqxIGInq3cDGjsLlJ2heRVpjhqDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549365580743-d51ctl6k75kepjpn9ih9sar3bmh89jf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
